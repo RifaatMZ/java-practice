@@ -1,7 +1,7 @@
 # A Personal Project to Practice Java
 
 ### Overview
-This Java project was created in IntelliJ IDEA with gradle, Java 16+ with unit tests. 
+This Java project was created in IntelliJ IDEA using gradle, Java 16+ and some unit tests. 
 ### Features
 
 Given an array [red, yellow,brown,red,black, green, white,yellow]
